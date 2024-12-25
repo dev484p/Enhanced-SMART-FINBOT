@@ -13,7 +13,7 @@ Enhanced-SMART-FINBOT is an advanced finance chatbot that leverages LangGraph ar
 * Python-Based Workflow: Developed using Python for seamless integration and extensibility.
 
 ## Workflow
-![Workflow Diagram](assets/workflow_diagram.png](https://github.com/dev484p/Enhanced-SMART-FINBOT/blob/main/workflow.png)
+![Workflow Diagram](workflow.png)
 ### 1.User Query: 
   The user submits a query.
 ### 2.Query Routing:
